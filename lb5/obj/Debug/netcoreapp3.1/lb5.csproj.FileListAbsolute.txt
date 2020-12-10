@@ -1,0 +1,13 @@
+C:\Users\korol\source\repos\lb5\lb5\bin\Debug\netcoreapp3.1\lb5.exe
+C:\Users\korol\source\repos\lb5\lb5\bin\Debug\netcoreapp3.1\lb5.deps.json
+C:\Users\korol\source\repos\lb5\lb5\bin\Debug\netcoreapp3.1\lb5.runtimeconfig.json
+C:\Users\korol\source\repos\lb5\lb5\bin\Debug\netcoreapp3.1\lb5.runtimeconfig.dev.json
+C:\Users\korol\source\repos\lb5\lb5\bin\Debug\netcoreapp3.1\lb5.dll
+C:\Users\korol\source\repos\lb5\lb5\bin\Debug\netcoreapp3.1\lb5.pdb
+C:\Users\korol\source\repos\lb5\lb5\obj\Debug\netcoreapp3.1\lb5.csprojAssemblyReference.cache
+C:\Users\korol\source\repos\lb5\lb5\obj\Debug\netcoreapp3.1\lb5.AssemblyInfoInputs.cache
+C:\Users\korol\source\repos\lb5\lb5\obj\Debug\netcoreapp3.1\lb5.AssemblyInfo.cs
+C:\Users\korol\source\repos\lb5\lb5\obj\Debug\netcoreapp3.1\lb5.csproj.CoreCompileInputs.cache
+C:\Users\korol\source\repos\lb5\lb5\obj\Debug\netcoreapp3.1\lb5.dll
+C:\Users\korol\source\repos\lb5\lb5\obj\Debug\netcoreapp3.1\lb5.pdb
+C:\Users\korol\source\repos\lb5\lb5\obj\Debug\netcoreapp3.1\lb5.genruntimeconfig.cache

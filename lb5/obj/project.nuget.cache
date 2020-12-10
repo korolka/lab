@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IZmhhFohZXFZggX6gcTYJN9pbkSM3YTqiW77wZi3rNEMMvoTHbeDRg8T8GjOC8RymtSCrTOfj4I/BncVPqi4HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\korol\\source\\repos\\lb5\\lb5\\lb5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\korol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
